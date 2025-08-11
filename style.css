@@ -14,6 +14,9 @@ header .header-container {
 
 .main-container {
     padding: 10px;
+    background-image: url(rm222batch5-kul-18.jpg);
+    background-repeat: none;
+    background-size: cover;
 }
 
 .mini-container {
