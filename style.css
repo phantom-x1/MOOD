@@ -338,7 +338,6 @@ main .first-section {
         display: flex;
         flex-direction: column;
         margin: auto;
-        height: auto;
         width: fit-content;
     }
 
